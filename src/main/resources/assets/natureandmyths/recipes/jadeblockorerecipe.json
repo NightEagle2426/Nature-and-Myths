@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:jadeoreblock"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:jadegem",
+    "count": 9
+  }
+}

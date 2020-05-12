@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:onix"
+    },
+    "2": {
+      "item": "natureandmyths:onix"
+    },
+    "3": {
+      "item": "natureandmyths:onix"
+    },
+    "4": {
+      "item": "natureandmyths:onix"
+    },
+    "5": {
+      "item": "natureandmyths:onix"
+    },
+    "6": {
+      "item": "natureandmyths:onix"
+    },
+    "7": {
+      "item": "natureandmyths:onix"
+    },
+    "8": {
+      "item": "natureandmyths:onix"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:onixsarmorbody",
+    "count": 1
+  }
+}

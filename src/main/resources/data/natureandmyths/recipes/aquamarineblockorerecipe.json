@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:aquamarineoreblock"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:aquamarinegem",
+    "count": 9
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:sodaliteingot"
+    },
+    "1": {
+      "item": "natureandmyths:sodaliteingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:sodalitehoe",
+    "count": 1
+  }
+}

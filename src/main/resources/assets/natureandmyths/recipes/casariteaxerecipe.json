@@ -1,0 +1,30 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "1": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "2": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:casariteaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:iridium"
+    },
+    "2": {
+      "item": "natureandmyths:iridium"
+    },
+    "3": {
+      "item": "natureandmyths:iridium"
+    },
+    "4": {
+      "item": "natureandmyths:iridium"
+    },
+    "5": {
+      "item": "natureandmyths:iridium"
+    },
+    "6": {
+      "item": "natureandmyths:iridium"
+    },
+    "7": {
+      "item": "natureandmyths:iridium"
+    },
+    "8": {
+      "item": "natureandmyths:iridium"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:iridium1armorbody",
+    "count": 1
+  }
+}

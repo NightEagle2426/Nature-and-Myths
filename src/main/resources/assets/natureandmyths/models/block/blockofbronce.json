@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/bronce",
+    "up": "natureandmyths:blocks/bronce",
+    "north": "natureandmyths:blocks/bronce",
+    "east": "natureandmyths:blocks/bronce",
+    "south": "natureandmyths:blocks/bronce",
+    "west": "natureandmyths:blocks/bronce",
+    "particle": "natureandmyths:blocks/bronce"
+  }
+}

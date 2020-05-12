@@ -1,0 +1,42 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:pyrite"
+    },
+    "1": {
+      "item": "natureandmyths:pyrite"
+    },
+    "2": {
+      "item": "natureandmyths:pyrite"
+    },
+    "3": {
+      "item": "natureandmyths:pyrite"
+    },
+    "4": {
+      "item": "natureandmyths:pyrite"
+    },
+    "5": {
+      "item": "natureandmyths:pyrite"
+    },
+    "6": {
+      "item": "natureandmyths:pyrite"
+    },
+    "7": {
+      "item": "natureandmyths:pyrite"
+    },
+    "8": {
+      "item": "natureandmyths:pyrite"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:blockofpirite",
+    "count": 1
+  }
+}

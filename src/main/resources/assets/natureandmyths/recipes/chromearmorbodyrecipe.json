@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:chromeingot"
+    },
+    "2": {
+      "item": "natureandmyths:chromeingot"
+    },
+    "3": {
+      "item": "natureandmyths:chromeingot"
+    },
+    "4": {
+      "item": "natureandmyths:chromeingot"
+    },
+    "5": {
+      "item": "natureandmyths:chromeingot"
+    },
+    "6": {
+      "item": "natureandmyths:chromeingot"
+    },
+    "7": {
+      "item": "natureandmyths:chromeingot"
+    },
+    "8": {
+      "item": "natureandmyths:chromeingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:chromearmorbody",
+    "count": 1
+  }
+}

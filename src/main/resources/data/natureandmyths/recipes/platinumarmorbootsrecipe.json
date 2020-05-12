@@ -1,0 +1,26 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:platinumingot"
+    },
+    "2": {
+      "item": "natureandmyths:platinumingot"
+    },
+    "3": {
+      "item": "natureandmyths:platinumingot"
+    },
+    "5": {
+      "item": "natureandmyths:platinumingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:platinumarmorboots",
+    "count": 1
+  }
+}

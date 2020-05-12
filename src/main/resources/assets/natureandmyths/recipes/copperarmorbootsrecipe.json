@@ -1,0 +1,26 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:cobre"
+    },
+    "2": {
+      "item": "natureandmyths:cobre"
+    },
+    "3": {
+      "item": "natureandmyths:cobre"
+    },
+    "5": {
+      "item": "natureandmyths:cobre"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:copperarmorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:orichalcumingot"
+    },
+    "1": {
+      "item": "natureandmyths:orichalcumingot"
+    },
+    "2": {
+      "item": "natureandmyths:orichalcumingot"
+    },
+    "3": {
+      "item": "natureandmyths:orichalcumingot"
+    },
+    "5": {
+      "item": "natureandmyths:orichalcumingot"
+    },
+    "6": {
+      "item": "natureandmyths:orichalcumingot"
+    },
+    "8": {
+      "item": "natureandmyths:orichalcumingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:orichalcumarmorlegs",
+    "count": 1
+  }
+}

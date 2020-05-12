@@ -1,0 +1,38 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:salt"
+    },
+    {
+      "item": "natureandmyths:salt"
+    },
+    {
+      "item": "natureandmyths:salt"
+    },
+    {
+      "item": "natureandmyths:salt"
+    },
+    {
+      "item": "natureandmyths:salt"
+    },
+    {
+      "item": "natureandmyths:salt"
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    {
+      "item": "natureandmyths:sulfure"
+    },
+    {
+      "item": "natureandmyths:salt"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 9
+  }
+}

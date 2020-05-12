@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:tiningot"
+    },
+    "2": {
+      "item": "natureandmyths:tiningot"
+    },
+    "3": {
+      "item": "natureandmyths:tiningot"
+    },
+    "4": {
+      "item": "natureandmyths:tiningot"
+    },
+    "5": {
+      "item": "natureandmyths:tiningot"
+    },
+    "6": {
+      "item": "natureandmyths:tiningot"
+    },
+    "7": {
+      "item": "natureandmyths:tiningot"
+    },
+    "8": {
+      "item": "natureandmyths:tiningot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:tinarmorbody",
+    "count": 1
+  }
+}

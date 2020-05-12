@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:scandiumingot"
+    },
+    "2": {
+      "item": "natureandmyths:scandiumingot"
+    },
+    "3": {
+      "item": "natureandmyths:scandiumingot"
+    },
+    "4": {
+      "item": "natureandmyths:scandiumingot"
+    },
+    "5": {
+      "item": "natureandmyths:scandiumingot"
+    },
+    "6": {
+      "item": "natureandmyths:scandiumingot"
+    },
+    "7": {
+      "item": "natureandmyths:scandiumingot"
+    },
+    "8": {
+      "item": "natureandmyths:scandiumingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:scandiumarmorbody",
+    "count": 1
+  }
+}

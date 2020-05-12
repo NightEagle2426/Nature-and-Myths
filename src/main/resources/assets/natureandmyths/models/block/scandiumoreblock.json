@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "natureandmyths:blocks/scandium_ore_block",
+    "particle": "natureandmyths:blocks/scandium_ore_block"
+  }
+}

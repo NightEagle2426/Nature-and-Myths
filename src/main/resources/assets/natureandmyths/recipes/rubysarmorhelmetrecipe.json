@@ -1,0 +1,29 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:ruby"
+    },
+    "1": {
+      "item": "natureandmyths:ruby"
+    },
+    "2": {
+      "item": "natureandmyths:ruby"
+    },
+    "3": {
+      "item": "natureandmyths:ruby"
+    },
+    "5": {
+      "item": "natureandmyths:ruby"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:rubysarmorhelmet",
+    "count": 1
+  }
+}

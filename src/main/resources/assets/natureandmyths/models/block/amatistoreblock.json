@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "natureandmyths:blocks/amatiste",
+    "particle": "natureandmyths:blocks/amatiste"
+  }
+}

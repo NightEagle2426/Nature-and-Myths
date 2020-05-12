@@ -1,0 +1,36 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:topazgem"
+    },
+    "1": {
+      "item": "natureandmyths:topazgem"
+    },
+    "2": {
+      "item": "natureandmyths:topazgem"
+    },
+    "3": {
+      "item": "natureandmyths:topazgem"
+    },
+    "5": {
+      "item": "natureandmyths:topazgem"
+    },
+    "6": {
+      "item": "natureandmyths:topazgem"
+    },
+    "8": {
+      "item": "natureandmyths:topazgem"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:topazarmorlegs",
+    "count": 1
+  }
+}

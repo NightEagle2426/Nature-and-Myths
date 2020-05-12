@@ -1,0 +1,26 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:iridium"
+    },
+    "2": {
+      "item": "natureandmyths:iridium"
+    },
+    "3": {
+      "item": "natureandmyths:iridium"
+    },
+    "5": {
+      "item": "natureandmyths:iridium"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:iridium1armorboots",
+    "count": 1
+  }
+}

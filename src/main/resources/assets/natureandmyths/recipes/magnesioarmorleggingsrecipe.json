@@ -1,0 +1,36 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:magnesioingot"
+    },
+    "1": {
+      "item": "natureandmyths:magnesioingot"
+    },
+    "2": {
+      "item": "natureandmyths:magnesioingot"
+    },
+    "3": {
+      "item": "natureandmyths:magnesioingot"
+    },
+    "5": {
+      "item": "natureandmyths:magnesioingot"
+    },
+    "6": {
+      "item": "natureandmyths:magnesioingot"
+    },
+    "8": {
+      "item": "natureandmyths:magnesioingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:magnesioarmorlegs",
+    "count": 1
+  }
+}

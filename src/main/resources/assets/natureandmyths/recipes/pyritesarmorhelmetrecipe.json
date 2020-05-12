@@ -1,0 +1,29 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:pyrite"
+    },
+    "1": {
+      "item": "natureandmyths:pyrite"
+    },
+    "2": {
+      "item": "natureandmyths:pyrite"
+    },
+    "3": {
+      "item": "natureandmyths:pyrite"
+    },
+    "5": {
+      "item": "natureandmyths:pyrite"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:pyritesarmorhelmet",
+    "count": 1
+  }
+}

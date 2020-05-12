@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Cobalto"
+      },
+      {
+        "value": "CUSTOM:Cobalto"
+      },
+      {
+        "value": "CUSTOM:Cobalto"
+      },
+      {
+        "value": "CUSTOM:Cobalto"
+      },
+      {
+        "value": "CUSTOM:Cobalto"
+      },
+      {
+        "value": "CUSTOM:Cobalto"
+      },
+      {
+        "value": "CUSTOM:Cobalto"
+      },
+      {
+        "value": "CUSTOM:Cobalto"
+      },
+      {
+        "value": "CUSTOM:Cobalto"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Coblat"
+    },
+    "name": "cobalt",
+    "namespace": "mod"
+  }
+}

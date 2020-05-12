@@ -1,0 +1,42 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:lithiumingot"
+    },
+    "1": {
+      "item": "natureandmyths:lithiumingot"
+    },
+    "2": {
+      "item": "natureandmyths:lithiumingot"
+    },
+    "3": {
+      "item": "natureandmyths:lithiumingot"
+    },
+    "4": {
+      "item": "natureandmyths:lithiumingot"
+    },
+    "5": {
+      "item": "natureandmyths:lithiumingot"
+    },
+    "6": {
+      "item": "natureandmyths:lithiumingot"
+    },
+    "7": {
+      "item": "natureandmyths:lithiumingot"
+    },
+    "8": {
+      "item": "natureandmyths:lithiumingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:lithiumoreblock",
+    "count": 1
+  }
+}

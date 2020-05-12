@@ -1,0 +1,42 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:spinel"
+    },
+    "1": {
+      "item": "natureandmyths:spinel"
+    },
+    "2": {
+      "item": "natureandmyths:spinel"
+    },
+    "3": {
+      "item": "natureandmyths:spinel"
+    },
+    "4": {
+      "item": "natureandmyths:spinel"
+    },
+    "5": {
+      "item": "natureandmyths:spinel"
+    },
+    "6": {
+      "item": "natureandmyths:spinel"
+    },
+    "7": {
+      "item": "natureandmyths:spinel"
+    },
+    "8": {
+      "item": "natureandmyths:spinel"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:spinelblock",
+    "count": 1
+  }
+}

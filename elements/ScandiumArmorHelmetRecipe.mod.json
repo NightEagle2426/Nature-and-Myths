@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ScandiumIngot"
+      },
+      {
+        "value": "CUSTOM:ScandiumIngot"
+      },
+      {
+        "value": "CUSTOM:ScandiumIngot"
+      },
+      {
+        "value": "CUSTOM:ScandiumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ScandiumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ScandiumArmor.helmet"
+    },
+    "name": "scandiumarmorhelmetrecipe",
+    "namespace": "mod"
+  }
+}

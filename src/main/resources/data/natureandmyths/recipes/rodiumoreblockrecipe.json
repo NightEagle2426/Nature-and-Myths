@@ -1,0 +1,42 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:rodiumingot"
+    },
+    "1": {
+      "item": "natureandmyths:rodiumingot"
+    },
+    "2": {
+      "item": "natureandmyths:rodiumingot"
+    },
+    "3": {
+      "item": "natureandmyths:rodiumingot"
+    },
+    "4": {
+      "item": "natureandmyths:rodiumingot"
+    },
+    "5": {
+      "item": "natureandmyths:rodiumingot"
+    },
+    "6": {
+      "item": "natureandmyths:rodiumingot"
+    },
+    "7": {
+      "item": "natureandmyths:rodiumingot"
+    },
+    "8": {
+      "item": "natureandmyths:rodiumingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:rodiumoreblock",
+    "count": 1
+  }
+}

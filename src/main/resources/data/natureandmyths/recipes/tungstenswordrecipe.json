@@ -1,0 +1,24 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "1": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:tungstensword",
+    "count": 1
+  }
+}

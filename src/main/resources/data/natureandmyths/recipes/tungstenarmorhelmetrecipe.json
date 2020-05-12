@@ -1,0 +1,29 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "1": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "2": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "3": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "5": {
+      "item": "natureandmyths:tungsteningot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:tungstenarmorhelmet",
+    "count": 1
+  }
+}

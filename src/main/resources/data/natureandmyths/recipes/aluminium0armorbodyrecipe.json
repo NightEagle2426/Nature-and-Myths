@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:aluminium"
+    },
+    "2": {
+      "item": "natureandmyths:aluminium"
+    },
+    "3": {
+      "item": "natureandmyths:aluminium"
+    },
+    "4": {
+      "item": "natureandmyths:aluminium"
+    },
+    "5": {
+      "item": "natureandmyths:aluminium"
+    },
+    "6": {
+      "item": "natureandmyths:aluminium"
+    },
+    "7": {
+      "item": "natureandmyths:aluminium"
+    },
+    "8": {
+      "item": "natureandmyths:aluminium"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:aluminium0armorbody",
+    "count": 1
+  }
+}

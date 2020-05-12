@@ -1,0 +1,26 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:magnesioingot"
+    },
+    "2": {
+      "item": "natureandmyths:magnesioingot"
+    },
+    "3": {
+      "item": "natureandmyths:magnesioingot"
+    },
+    "5": {
+      "item": "natureandmyths:magnesioingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:magnesioarmorboots",
+    "count": 1
+  }
+}

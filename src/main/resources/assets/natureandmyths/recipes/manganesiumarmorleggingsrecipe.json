@@ -1,0 +1,36 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:manganesiumgem"
+    },
+    "1": {
+      "item": "natureandmyths:manganesiumgem"
+    },
+    "2": {
+      "item": "natureandmyths:manganesiumgem"
+    },
+    "3": {
+      "item": "natureandmyths:manganesiumgem"
+    },
+    "5": {
+      "item": "natureandmyths:manganesiumgem"
+    },
+    "6": {
+      "item": "natureandmyths:manganesiumgem"
+    },
+    "8": {
+      "item": "natureandmyths:manganesiumgem"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:manganesiumarmorlegs",
+    "count": 1
+  }
+}

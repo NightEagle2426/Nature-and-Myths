@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:unknown_element"
+    },
+    "2": {
+      "item": "natureandmyths:unknown_element"
+    },
+    "3": {
+      "item": "natureandmyths:unknown_element"
+    },
+    "4": {
+      "item": "natureandmyths:unknown_element"
+    },
+    "5": {
+      "item": "natureandmyths:unknown_element"
+    },
+    "6": {
+      "item": "natureandmyths:unknown_element"
+    },
+    "7": {
+      "item": "natureandmyths:unknown_element"
+    },
+    "8": {
+      "item": "natureandmyths:unknown_element"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:amatistasarmorbody",
+    "count": 1
+  }
+}

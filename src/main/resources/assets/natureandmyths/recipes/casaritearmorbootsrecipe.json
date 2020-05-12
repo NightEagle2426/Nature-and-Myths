@@ -1,0 +1,26 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "2": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "3": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "5": {
+      "item": "natureandmyths:casaritegem"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:casaritearmorboots",
+    "count": 1
+  }
+}

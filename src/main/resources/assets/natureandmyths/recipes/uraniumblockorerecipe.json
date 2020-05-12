@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:uraniumoreblock"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:uraniumingot",
+    "count": 9
+  }
+}

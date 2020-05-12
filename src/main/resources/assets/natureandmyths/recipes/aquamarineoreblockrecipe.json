@@ -1,0 +1,42 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:aquamarinegem"
+    },
+    "1": {
+      "item": "natureandmyths:aquamarinegem"
+    },
+    "2": {
+      "item": "natureandmyths:aquamarinegem"
+    },
+    "3": {
+      "item": "natureandmyths:aquamarinegem"
+    },
+    "4": {
+      "item": "natureandmyths:aquamarinegem"
+    },
+    "5": {
+      "item": "natureandmyths:aquamarinegem"
+    },
+    "6": {
+      "item": "natureandmyths:aquamarinegem"
+    },
+    "7": {
+      "item": "natureandmyths:aquamarinegem"
+    },
+    "8": {
+      "item": "natureandmyths:aquamarinegem"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:aquamarineoreblock",
+    "count": 1
+  }
+}

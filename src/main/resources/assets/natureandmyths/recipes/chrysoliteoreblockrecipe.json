@@ -1,0 +1,42 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:chrysolitegem"
+    },
+    "1": {
+      "item": "natureandmyths:chrysolitegem"
+    },
+    "2": {
+      "item": "natureandmyths:chrysolitegem"
+    },
+    "3": {
+      "item": "natureandmyths:chrysolitegem"
+    },
+    "4": {
+      "item": "natureandmyths:chrysolitegem"
+    },
+    "5": {
+      "item": "natureandmyths:chrysolitegem"
+    },
+    "6": {
+      "item": "natureandmyths:chrysolitegem"
+    },
+    "7": {
+      "item": "natureandmyths:chrysolitegem"
+    },
+    "8": {
+      "item": "natureandmyths:chrysolitegem"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:chrysoliteoreblock",
+    "count": 1
+  }
+}

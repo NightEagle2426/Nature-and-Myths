@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "natureandmyths:silveringot",
+    "natureandmyths:steekl",
+    "natureandmyths:pyrite",
+    "natureandmyths:cobre",
+    "natureandmyths:bronce",
+    "natureandmyths:cobalto",
+    "natureandmyths:plomo",
+    "natureandmyths:electrum",
+    "natureandmyths:paladium",
+    "natureandmyths:osmium",
+    "natureandmyths:zinc",
+    "natureandmyths:aluminium",
+    "natureandmyths:hafnium",
+    "natureandmyths:iridium",
+    "natureandmyths:rutenium",
+    "natureandmyths:unknown_element",
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot"
+  ]
+}

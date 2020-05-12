@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cobres_pickaxe",
+    "customModelName": "Normal",
+    "name": "Cobres Pickaxe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 3.0,
+    "usageCount": 30,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

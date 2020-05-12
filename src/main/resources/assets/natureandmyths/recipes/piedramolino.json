@@ -1,0 +1,22 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone",
+      "data": 32767
+    },
+    "1": {
+      "item": "minecraft:stone",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "natureandmyths:piedrdemolino",
+    "count": 1
+  }
+}

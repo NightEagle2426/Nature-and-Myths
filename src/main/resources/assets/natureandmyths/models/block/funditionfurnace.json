@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/furnacebottom",
+    "up": "natureandmyths:blocks/furnacebottom",
+    "north": "natureandmyths:blocks/fundfront",
+    "east": "natureandmyths:blocks/furnacebottom",
+    "south": "natureandmyths:blocks/furnacebottom",
+    "west": "natureandmyths:blocks/furnacebottom",
+    "particle": "natureandmyths:blocks/furnacebottom"
+  }
+}

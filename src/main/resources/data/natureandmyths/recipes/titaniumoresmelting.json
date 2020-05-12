@@ -1,0 +1,11 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "ingredient": {
+    "item": "natureandmyths:titaniumore"
+  },
+  "result": {
+    "item": "natureandmyths:titaniumingot"
+  }
+}

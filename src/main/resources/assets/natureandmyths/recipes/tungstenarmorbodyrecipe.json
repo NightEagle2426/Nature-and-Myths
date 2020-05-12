@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "2": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "3": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "4": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "5": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "6": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "7": {
+      "item": "natureandmyths:tungsteningot"
+    },
+    "8": {
+      "item": "natureandmyths:tungsteningot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:tungstenarmorbody",
+    "count": 1
+  }
+}

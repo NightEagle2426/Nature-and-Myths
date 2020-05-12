@@ -1,0 +1,16 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:cobre"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:coppernugget",
+    "count": 9
+  }
+}

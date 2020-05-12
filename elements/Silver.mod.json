@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "silver_head",
+    "enableBody": true,
+    "textureBody": "silverchess",
+    "enableLeggings": true,
+    "textureLeggings": "silver_leggings",
+    "enableBoots": true,
+    "textureBoots": "silver_boots",
+    "creativeTab": {
+      "value": "CUSTOM:NEArmors"
+    },
+    "armorTextureFile": "silver",
+    "helmetName": "Silver Helmet",
+    "bodyName": "Silver Body",
+    "leggingsName": "Silver Leggings",
+    "bootsName": "Silver Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 12,
+    "toughness": 1.2,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

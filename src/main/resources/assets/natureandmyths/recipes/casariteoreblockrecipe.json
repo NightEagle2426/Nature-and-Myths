@@ -1,0 +1,42 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "1": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "2": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "3": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "4": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "5": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "6": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "7": {
+      "item": "natureandmyths:casaritegem"
+    },
+    "8": {
+      "item": "natureandmyths:casaritegem"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:casariteoreblock",
+    "count": 1
+  }
+}

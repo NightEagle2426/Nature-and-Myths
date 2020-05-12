@@ -1,0 +1,26 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:onix"
+    },
+    "2": {
+      "item": "natureandmyths:onix"
+    },
+    "3": {
+      "item": "natureandmyths:onix"
+    },
+    "5": {
+      "item": "natureandmyths:onix"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:onixsarmorboots",
+    "count": 1
+  }
+}

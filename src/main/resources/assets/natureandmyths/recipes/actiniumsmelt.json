@@ -1,0 +1,16 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:actiniumore"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:actinium",
+    "count": 1
+  }
+}

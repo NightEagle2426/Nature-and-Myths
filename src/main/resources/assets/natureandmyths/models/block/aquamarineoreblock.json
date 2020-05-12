@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "natureandmyths:blocks/aquamarine_ore_block",
+    "particle": "natureandmyths:blocks/aquamarine_ore_block"
+  }
+}

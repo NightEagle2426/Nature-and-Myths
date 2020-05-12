@@ -1,0 +1,42 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "1": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "2": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "3": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "4": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "5": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "6": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "7": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "8": {
+      "item": "natureandmyths:nikel1ingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:nikel1oreblock",
+    "count": 1
+  }
+}

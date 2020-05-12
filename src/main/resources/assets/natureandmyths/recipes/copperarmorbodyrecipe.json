@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:cobre"
+    },
+    "2": {
+      "item": "natureandmyths:cobre"
+    },
+    "3": {
+      "item": "natureandmyths:cobre"
+    },
+    "4": {
+      "item": "natureandmyths:cobre"
+    },
+    "5": {
+      "item": "natureandmyths:cobre"
+    },
+    "6": {
+      "item": "natureandmyths:cobre"
+    },
+    "7": {
+      "item": "natureandmyths:cobre"
+    },
+    "8": {
+      "item": "natureandmyths:cobre"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:copperarmorbody",
+    "count": 1
+  }
+}

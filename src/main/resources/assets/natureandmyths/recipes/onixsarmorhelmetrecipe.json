@@ -1,0 +1,29 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:onix"
+    },
+    "1": {
+      "item": "natureandmyths:onix"
+    },
+    "2": {
+      "item": "natureandmyths:onix"
+    },
+    "3": {
+      "item": "natureandmyths:onix"
+    },
+    "5": {
+      "item": "natureandmyths:onix"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:onixsarmorhelmet",
+    "count": 1
+  }
+}

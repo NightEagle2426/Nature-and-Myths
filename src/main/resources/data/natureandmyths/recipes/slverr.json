@@ -1,0 +1,42 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:silveringot"
+    },
+    "1": {
+      "item": "natureandmyths:silveringot"
+    },
+    "2": {
+      "item": "natureandmyths:silveringot"
+    },
+    "3": {
+      "item": "natureandmyths:silveringot"
+    },
+    "4": {
+      "item": "natureandmyths:silveringot"
+    },
+    "5": {
+      "item": "natureandmyths:silveringot"
+    },
+    "6": {
+      "item": "natureandmyths:silveringot"
+    },
+    "7": {
+      "item": "natureandmyths:silveringot"
+    },
+    "8": {
+      "item": "natureandmyths:silveringot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:silverblock",
+    "count": 1
+  }
+}

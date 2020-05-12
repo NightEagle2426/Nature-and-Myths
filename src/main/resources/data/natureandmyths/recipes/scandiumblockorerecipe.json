@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:scandiumoreblock"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:scandiumingot",
+    "count": 9
+  }
+}

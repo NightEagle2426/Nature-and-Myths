@@ -1,0 +1,26 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:jadegem"
+    },
+    "2": {
+      "item": "natureandmyths:jadegem"
+    },
+    "3": {
+      "item": "natureandmyths:jadegem"
+    },
+    "5": {
+      "item": "natureandmyths:jadegem"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:jadearmorboots",
+    "count": 1
+  }
+}

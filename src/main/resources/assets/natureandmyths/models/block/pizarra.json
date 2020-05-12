@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/pixxarra2",
+    "up": "natureandmyths:blocks/pixxarra2",
+    "north": "natureandmyths:blocks/pixxarra2",
+    "east": "natureandmyths:blocks/pixxarra2",
+    "south": "natureandmyths:blocks/pixxarra2",
+    "west": "natureandmyths:blocks/pixxarra2",
+    "particle": "natureandmyths:blocks/pixxarra2"
+  }
+}

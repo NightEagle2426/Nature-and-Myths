@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:osmium"
+    },
+    "2": {
+      "item": "natureandmyths:osmium"
+    },
+    "3": {
+      "item": "natureandmyths:osmium"
+    },
+    "4": {
+      "item": "natureandmyths:osmium"
+    },
+    "5": {
+      "item": "natureandmyths:osmium"
+    },
+    "6": {
+      "item": "natureandmyths:osmium"
+    },
+    "7": {
+      "item": "natureandmyths:osmium"
+    },
+    "8": {
+      "item": "natureandmyths:osmium"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:osmiumsarmorbody",
+    "count": 1
+  }
+}

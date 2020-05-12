@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:nikel1oreblock"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:nikel1ingot",
+    "count": 9
+  }
+}

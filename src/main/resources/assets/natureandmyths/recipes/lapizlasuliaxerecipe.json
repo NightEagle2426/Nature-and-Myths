@@ -1,0 +1,33 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "1": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:lapizlasuliaxe",
+    "count": 1
+  }
+}

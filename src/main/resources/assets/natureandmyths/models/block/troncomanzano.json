@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/manzanotop",
+    "up": "natureandmyths:blocks/manzanotop",
+    "north": "natureandmyths:blocks/arbolmanzana",
+    "east": "natureandmyths:blocks/arbolmanzana",
+    "south": "natureandmyths:blocks/arbolmanzana",
+    "west": "natureandmyths:blocks/arbolmanzana",
+    "particle": "natureandmyths:blocks/manzanotop"
+  }
+}

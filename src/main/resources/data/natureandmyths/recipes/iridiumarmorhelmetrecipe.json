@@ -1,0 +1,29 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:iridiumingot"
+    },
+    "1": {
+      "item": "natureandmyths:iridiumingot"
+    },
+    "2": {
+      "item": "natureandmyths:iridiumingot"
+    },
+    "3": {
+      "item": "natureandmyths:iridiumingot"
+    },
+    "5": {
+      "item": "natureandmyths:iridiumingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:iridiumarmorhelmet",
+    "count": 1
+  }
+}

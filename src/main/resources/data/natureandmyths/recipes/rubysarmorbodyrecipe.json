@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:ruby"
+    },
+    "2": {
+      "item": "natureandmyths:ruby"
+    },
+    "3": {
+      "item": "natureandmyths:ruby"
+    },
+    "4": {
+      "item": "natureandmyths:ruby"
+    },
+    "5": {
+      "item": "natureandmyths:ruby"
+    },
+    "6": {
+      "item": "natureandmyths:ruby"
+    },
+    "7": {
+      "item": "natureandmyths:ruby"
+    },
+    "8": {
+      "item": "natureandmyths:ruby"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:rubysarmorbody",
+    "count": 1
+  }
+}

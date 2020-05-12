@@ -1,0 +1,47 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "6": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "7": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "8": {
+      "item": "minecraft:dye",
+      "data": 4
+    }
+  },
+  "result": {
+    "item": "natureandmyths:lapizlasuliarmorbody",
+    "count": 1
+  }
+}

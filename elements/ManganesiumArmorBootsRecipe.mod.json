@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ManganesiumGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ManganesiumGem"
+      },
+      {
+        "value": "CUSTOM:ManganesiumGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ManganesiumGem"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ManganesiumArmor.boots"
+    },
+    "name": "manganesiumarmorbootsrecipe",
+    "namespace": "mod"
+  }
+}

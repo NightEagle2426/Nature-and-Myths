@@ -1,0 +1,26 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:quartz"
+    },
+    "2": {
+      "item": "minecraft:quartz"
+    },
+    "3": {
+      "item": "minecraft:quartz"
+    },
+    "5": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:quartzarmorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/eucalipto2",
+    "up": "natureandmyths:blocks/eucalipto2",
+    "north": "natureandmyths:blocks/eucalipto1",
+    "east": "natureandmyths:blocks/eucalipto1",
+    "south": "natureandmyths:blocks/eucalipto1",
+    "west": "natureandmyths:blocks/eucalipto1",
+    "particle": "natureandmyths:blocks/eucalipto2"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:steekl"
+    },
+    "2": {
+      "item": "natureandmyths:steekl"
+    },
+    "3": {
+      "item": "natureandmyths:steekl"
+    },
+    "4": {
+      "item": "natureandmyths:steekl"
+    },
+    "5": {
+      "item": "natureandmyths:steekl"
+    },
+    "6": {
+      "item": "natureandmyths:steekl"
+    },
+    "7": {
+      "item": "natureandmyths:steekl"
+    },
+    "8": {
+      "item": "natureandmyths:steekl"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:steelarmorbody",
+    "count": 1
+  }
+}

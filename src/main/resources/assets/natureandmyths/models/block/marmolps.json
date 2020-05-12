@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "natureandmyths:blocks/marmol1",
+    "top": "natureandmyths:blocks/marmol1",
+    "side": "natureandmyths:blocks/marmol1"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_fv": 6,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:SilverIngot"
+      },
+      {
+        "value": "CUSTOM:Steekl"
+      },
+      {
+        "value": "CUSTOM:Pyrite"
+      },
+      {
+        "value": "CUSTOM:Cobre"
+      },
+      {
+        "value": "CUSTOM:Bronce"
+      },
+      {
+        "value": "CUSTOM:Cobalto"
+      },
+      {
+        "value": "CUSTOM:Plomo"
+      },
+      {
+        "value": "CUSTOM:Electrum"
+      },
+      {
+        "value": "CUSTOM:Paladium"
+      },
+      {
+        "value": "CUSTOM:Osmium"
+      },
+      {
+        "value": "CUSTOM:Zinc"
+      },
+      {
+        "value": "CUSTOM:Aluminium"
+      },
+      {
+        "value": "CUSTOM:Hafnium"
+      },
+      {
+        "value": "CUSTOM:Iridium"
+      },
+      {
+        "value": "CUSTOM:Rutenium"
+      },
+      {
+        "value": "CUSTOM:Nikel"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "tag_metals",
+    "namespace": "minecraft"
+  }
+}

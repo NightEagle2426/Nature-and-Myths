@@ -1,0 +1,36 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:citrino"
+    },
+    "1": {
+      "item": "natureandmyths:citrino"
+    },
+    "2": {
+      "item": "natureandmyths:citrino"
+    },
+    "3": {
+      "item": "natureandmyths:citrino"
+    },
+    "5": {
+      "item": "natureandmyths:citrino"
+    },
+    "6": {
+      "item": "natureandmyths:citrino"
+    },
+    "8": {
+      "item": "natureandmyths:citrino"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:citrino1armorlegs",
+    "count": 1
+  }
+}

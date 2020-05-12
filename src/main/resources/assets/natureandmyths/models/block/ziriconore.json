@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "natureandmyths:blocks/ziricon_ore",
+    "particle": "natureandmyths:blocks/ziricon_ore"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:rodiumingot"
+    },
+    "2": {
+      "item": "natureandmyths:rodiumingot"
+    },
+    "3": {
+      "item": "natureandmyths:rodiumingot"
+    },
+    "5": {
+      "item": "natureandmyths:rodiumingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:rodiumarmorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:rutenium"
+    },
+    "2": {
+      "item": "natureandmyths:rutenium"
+    },
+    "3": {
+      "item": "natureandmyths:rutenium"
+    },
+    "5": {
+      "item": "natureandmyths:rutenium"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:ruteniumsarmorboots",
+    "count": 1
+  }
+}

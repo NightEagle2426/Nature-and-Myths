@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "silvershears",
+    "customModelName": "Normal",
+    "name": "Silver Shears",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Shears",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 1.0,
+    "usageCount": 33,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

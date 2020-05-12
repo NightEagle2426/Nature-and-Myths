@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/pluthades",
+    "up": "natureandmyths:blocks/pluthades",
+    "north": "natureandmyths:blocks/pluthades",
+    "east": "natureandmyths:blocks/pluthades",
+    "south": "natureandmyths:blocks/pluthades",
+    "west": "natureandmyths:blocks/pluthades",
+    "particle": "natureandmyths:blocks/pluthades"
+  }
+}

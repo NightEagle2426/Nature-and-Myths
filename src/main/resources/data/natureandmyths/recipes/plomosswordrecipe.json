@@ -1,0 +1,24 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:plomo"
+    },
+    "1": {
+      "item": "natureandmyths:plomo"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:plomossword",
+    "count": 1
+  }
+}

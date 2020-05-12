@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/aluminium",
+    "up": "natureandmyths:blocks/aluminium",
+    "north": "natureandmyths:blocks/aluminium",
+    "east": "natureandmyths:blocks/aluminium",
+    "south": "natureandmyths:blocks/aluminium",
+    "west": "natureandmyths:blocks/aluminium",
+    "particle": "natureandmyths:blocks/aluminium"
+  }
+}

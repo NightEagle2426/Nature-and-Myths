@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:amatistoreblock"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:amatistgem",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/copperblock",
+    "up": "natureandmyths:blocks/copperblock",
+    "north": "natureandmyths:blocks/copperblock",
+    "east": "natureandmyths:blocks/copperblock",
+    "south": "natureandmyths:blocks/copperblock",
+    "west": "natureandmyths:blocks/copperblock",
+    "particle": "natureandmyths:blocks/copperblock"
+  }
+}

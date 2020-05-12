@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "citrino1_head",
+    "enableBody": true,
+    "textureBody": "citrinearmor",
+    "enableLeggings": true,
+    "textureLeggings": "citrino1_leggings",
+    "enableBoots": true,
+    "textureBoots": "citrino1_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "citrino1",
+    "helmetName": "Citrino1 Helmet",
+    "bodyName": "Citrino1 Chestplate",
+    "leggingsName": "Citrino1 Leggings",
+    "bootsName": "Citrino1 Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 45,
+    "damageValueHelmet": 6,
+    "damageValueBody": 15,
+    "damageValueLeggings": 18,
+    "damageValueBoots": 6,
+    "enchantability": 27,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

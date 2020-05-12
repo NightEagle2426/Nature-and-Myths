@@ -1,0 +1,30 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:aquamarinegem"
+    },
+    "1": {
+      "item": "natureandmyths:aquamarinegem"
+    },
+    "2": {
+      "item": "natureandmyths:aquamarinegem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:aquamarineaxe",
+    "count": 1
+  }
+}

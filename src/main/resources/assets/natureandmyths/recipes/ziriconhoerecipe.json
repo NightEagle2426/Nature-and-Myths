@@ -1,0 +1,27 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:ziricongem"
+    },
+    "1": {
+      "item": "natureandmyths:ziricongem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:ziriconhoe",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:tungstenoreblock"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:tungsteningot",
+    "count": 9
+  }
+}

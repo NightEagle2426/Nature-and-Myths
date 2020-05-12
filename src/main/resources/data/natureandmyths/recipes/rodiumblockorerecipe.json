@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:rodiumoreblock"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:rodiumingot",
+    "count": 9
+  }
+}

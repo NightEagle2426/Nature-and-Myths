@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:lithiumoreblock"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:lithiumingot",
+    "count": 9
+  }
+}

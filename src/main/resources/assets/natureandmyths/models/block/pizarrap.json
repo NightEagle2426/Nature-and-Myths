@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/pozara1",
+    "up": "natureandmyths:blocks/pozara1",
+    "north": "natureandmyths:blocks/pozara1",
+    "east": "natureandmyths:blocks/pozara1",
+    "south": "natureandmyths:blocks/pozara1",
+    "west": "natureandmyths:blocks/pozara1",
+    "particle": "natureandmyths:blocks/pozara1"
+  }
+}

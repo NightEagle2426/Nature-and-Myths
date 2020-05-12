@@ -1,0 +1,26 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "2": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "3": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "5": {
+      "item": "natureandmyths:nikel1ingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:nikel1armorboots",
+    "count": 1
+  }
+}

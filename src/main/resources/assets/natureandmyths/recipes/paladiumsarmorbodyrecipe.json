@@ -1,0 +1,39 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:paladium"
+    },
+    "2": {
+      "item": "natureandmyths:paladium"
+    },
+    "3": {
+      "item": "natureandmyths:paladium"
+    },
+    "4": {
+      "item": "natureandmyths:paladium"
+    },
+    "5": {
+      "item": "natureandmyths:paladium"
+    },
+    "6": {
+      "item": "natureandmyths:paladium"
+    },
+    "7": {
+      "item": "natureandmyths:paladium"
+    },
+    "8": {
+      "item": "natureandmyths:paladium"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:paladiumsarmorbody",
+    "count": 1
+  }
+}

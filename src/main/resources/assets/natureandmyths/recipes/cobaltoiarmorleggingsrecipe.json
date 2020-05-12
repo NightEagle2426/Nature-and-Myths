@@ -1,0 +1,36 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:cobalto"
+    },
+    "1": {
+      "item": "natureandmyths:cobalto"
+    },
+    "2": {
+      "item": "natureandmyths:cobalto"
+    },
+    "3": {
+      "item": "natureandmyths:cobalto"
+    },
+    "5": {
+      "item": "natureandmyths:cobalto"
+    },
+    "6": {
+      "item": "natureandmyths:cobalto"
+    },
+    "8": {
+      "item": "natureandmyths:cobalto"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:cobaltoiarmorlegs",
+    "count": 1
+  }
+}

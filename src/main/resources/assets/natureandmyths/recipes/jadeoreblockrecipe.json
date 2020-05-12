@@ -1,0 +1,42 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:jadegem"
+    },
+    "1": {
+      "item": "natureandmyths:jadegem"
+    },
+    "2": {
+      "item": "natureandmyths:jadegem"
+    },
+    "3": {
+      "item": "natureandmyths:jadegem"
+    },
+    "4": {
+      "item": "natureandmyths:jadegem"
+    },
+    "5": {
+      "item": "natureandmyths:jadegem"
+    },
+    "6": {
+      "item": "natureandmyths:jadegem"
+    },
+    "7": {
+      "item": "natureandmyths:jadegem"
+    },
+    "8": {
+      "item": "natureandmyths:jadegem"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:jadeoreblock",
+    "count": 1
+  }
+}

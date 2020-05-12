@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/azul",
+    "up": "natureandmyths:blocks/azul",
+    "north": "natureandmyths:blocks/azul",
+    "east": "natureandmyths:blocks/azul",
+    "south": "natureandmyths:blocks/azul",
+    "west": "natureandmyths:blocks/azul",
+    "particle": "natureandmyths:blocks/azul"
+  }
+}

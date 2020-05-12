@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "natureandmyths:blocks/galium_ore",
+    "particle": "natureandmyths:blocks/galium_ore"
+  }
+}

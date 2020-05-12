@@ -1,0 +1,11 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "ingredient": {
+    "item": "natureandmyths:silverore"
+  },
+  "result": {
+    "item": "natureandmyths:silveringot"
+  }
+}

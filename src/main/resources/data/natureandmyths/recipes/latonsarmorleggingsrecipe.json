@@ -1,0 +1,36 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:laton"
+    },
+    "1": {
+      "item": "natureandmyths:laton"
+    },
+    "2": {
+      "item": "natureandmyths:laton"
+    },
+    "3": {
+      "item": "natureandmyths:laton"
+    },
+    "5": {
+      "item": "natureandmyths:laton"
+    },
+    "6": {
+      "item": "natureandmyths:laton"
+    },
+    "8": {
+      "item": "natureandmyths:laton"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:latonsarmorlegs",
+    "count": 1
+  }
+}

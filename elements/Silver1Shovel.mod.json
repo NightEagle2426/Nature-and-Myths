@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "silver1_shovel",
+    "customModelName": "Normal",
+    "name": "Silver Shovel",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 1,
+    "efficiency": 6.5,
+    "attackSpeed": 1.0,
+    "enchantability": 14,
+    "damageVsEntity": 1.0,
+    "usageCount": 33,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

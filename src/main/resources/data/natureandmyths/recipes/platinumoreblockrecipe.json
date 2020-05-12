@@ -1,0 +1,42 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:platinumingot"
+    },
+    "1": {
+      "item": "natureandmyths:platinumingot"
+    },
+    "2": {
+      "item": "natureandmyths:platinumingot"
+    },
+    "3": {
+      "item": "natureandmyths:platinumingot"
+    },
+    "4": {
+      "item": "natureandmyths:platinumingot"
+    },
+    "5": {
+      "item": "natureandmyths:platinumingot"
+    },
+    "6": {
+      "item": "natureandmyths:platinumingot"
+    },
+    "7": {
+      "item": "natureandmyths:platinumingot"
+    },
+    "8": {
+      "item": "natureandmyths:platinumingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:platinumoreblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "ingredient": {
+    "item": "natureandmyths:chrysoliteore"
+  },
+  "result": {
+    "item": "natureandmyths:chrysolitegem"
+  }
+}

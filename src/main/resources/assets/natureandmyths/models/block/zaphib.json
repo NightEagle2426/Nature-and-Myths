@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/zapy",
+    "up": "natureandmyths:blocks/zapy",
+    "north": "natureandmyths:blocks/zapy",
+    "east": "natureandmyths:blocks/zapy",
+    "south": "natureandmyths:blocks/zapy",
+    "west": "natureandmyths:blocks/zapy",
+    "particle": "natureandmyths:blocks/zapy"
+  }
+}

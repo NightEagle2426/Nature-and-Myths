@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/electrium",
+    "up": "natureandmyths:blocks/electrium",
+    "north": "natureandmyths:blocks/electrium",
+    "east": "natureandmyths:blocks/electrium",
+    "south": "natureandmyths:blocks/electrium",
+    "west": "natureandmyths:blocks/electrium",
+    "particle": "natureandmyths:blocks/electrium"
+  }
+}

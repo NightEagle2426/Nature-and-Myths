@@ -1,0 +1,36 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "1": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "2": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "3": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "5": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "6": {
+      "item": "natureandmyths:nikel1ingot"
+    },
+    "8": {
+      "item": "natureandmyths:nikel1ingot"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:nikel1armorlegs",
+    "count": 1
+  }
+}

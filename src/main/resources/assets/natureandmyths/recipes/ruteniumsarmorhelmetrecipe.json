@@ -1,0 +1,29 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:rutenium"
+    },
+    "1": {
+      "item": "natureandmyths:rutenium"
+    },
+    "2": {
+      "item": "natureandmyths:rutenium"
+    },
+    "3": {
+      "item": "natureandmyths:rutenium"
+    },
+    "5": {
+      "item": "natureandmyths:rutenium"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:ruteniumsarmorhelmet",
+    "count": 1
+  }
+}

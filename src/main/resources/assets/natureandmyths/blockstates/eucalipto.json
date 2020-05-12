@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "natureandmyths:eucalipto"
+    },
+    "facing=south": {
+      "model": "natureandmyths:eucalipto"
+    },
+    "facing=north": {
+      "model": "natureandmyths:eucalipto"
+    },
+    "facing=east": {
+      "model": "natureandmyths:eucalipto",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "natureandmyths:eucalipto",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "natureandmyths:eucalipto",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "natureandmyths:eucalipto",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

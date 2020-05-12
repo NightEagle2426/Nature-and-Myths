@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "natureandmyths:blocks/marmol1",
+    "particle": "natureandmyths:blocks/marmol1"
+  }
+}

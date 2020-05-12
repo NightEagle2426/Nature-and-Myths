@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "natureandmyths:blocks/iridium_ore_block",
+    "particle": "natureandmyths:blocks/iridium_ore_block"
+  }
+}

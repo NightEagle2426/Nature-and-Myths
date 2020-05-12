@@ -1,0 +1,29 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:ziricongem"
+    },
+    "1": {
+      "item": "natureandmyths:ziricongem"
+    },
+    "2": {
+      "item": "natureandmyths:ziricongem"
+    },
+    "3": {
+      "item": "natureandmyths:ziricongem"
+    },
+    "5": {
+      "item": "natureandmyths:ziricongem"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:ziriconarmorhelmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:amatistgem"
+    },
+    "1": {
+      "item": "natureandmyths:amatistgem"
+    },
+    "2": {
+      "item": "natureandmyths:amatistgem"
+    },
+    "3": {
+      "item": "natureandmyths:amatistgem"
+    },
+    "5": {
+      "item": "natureandmyths:amatistgem"
+    },
+    "6": {
+      "item": "natureandmyths:amatistgem"
+    },
+    "8": {
+      "item": "natureandmyths:amatistgem"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:amatistasarmorlegs",
+    "count": 1
+  }
+}

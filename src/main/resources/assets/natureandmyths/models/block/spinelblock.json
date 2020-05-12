@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/sasasasas",
+    "up": "natureandmyths:blocks/sasasasas",
+    "north": "natureandmyths:blocks/sasasasas",
+    "east": "natureandmyths:blocks/sasasasas",
+    "south": "natureandmyths:blocks/sasasasas",
+    "west": "natureandmyths:blocks/sasasasas",
+    "particle": "natureandmyths:blocks/sasasasas"
+  }
+}

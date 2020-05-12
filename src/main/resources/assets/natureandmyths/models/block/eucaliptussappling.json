@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natureandmyths:blocks/eucaliptussappling",
+    "particle": "natureandmyths:blocks/eucaliptussappling"
+  }
+}

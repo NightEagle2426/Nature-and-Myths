@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "natureandmyths:blocks/pititit",
+    "up": "natureandmyths:blocks/pititit",
+    "north": "natureandmyths:blocks/pititit",
+    "east": "natureandmyths:blocks/pititit",
+    "south": "natureandmyths:blocks/pititit",
+    "west": "natureandmyths:blocks/pititit",
+    "particle": "natureandmyths:blocks/pititit"
+  }
+}

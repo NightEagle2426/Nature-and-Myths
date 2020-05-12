@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ironhoz",
+    "customModelName": "Normal",
+    "name": "Iron Hoz",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Special",
+    "harvestLevel": 2,
+    "efficiency": 5.0,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 5,
+    "damageVsEntity": 4.3,
+    "usageCount": 250,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}
