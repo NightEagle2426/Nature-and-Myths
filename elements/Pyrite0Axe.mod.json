@@ -1,11 +1,12 @@
 {
-  "_fv": 6,
+  "_fv": 8,
   "_type": "tool",
   "definition": {
     "renderType": 0,
     "texture": "pyrite0_axe",
     "customModelName": "Normal",
     "name": "Pyrite0 Axe",
+    "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },

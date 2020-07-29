@@ -1,0 +1,20 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:red_dye"
+    },
+    "2": {
+      "item": "natureandmyths:macuahuitl"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:red_macuahuitl",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:hafnium_ore_block"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:hafnium_ingot",
+    "count": 9
+  }
+}

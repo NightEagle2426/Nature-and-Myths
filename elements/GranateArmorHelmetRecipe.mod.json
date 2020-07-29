@@ -1,0 +1,46 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GranateGem"
+      },
+      {
+        "value": "CUSTOM:GranateGem"
+      },
+      {
+        "value": "CUSTOM:GranateGem"
+      },
+      {
+        "value": "CUSTOM:GranateGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GranateGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GranateArmor.helmet"
+    },
+    "name": "granate_armor_helmet_recipe",
+    "namespace": "mod"
+  }
+}

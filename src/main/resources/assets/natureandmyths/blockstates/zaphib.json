@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:zaphib"
+    "": {
+      "model": "natureandmyths:block/zaphib"
     }
   }
 }

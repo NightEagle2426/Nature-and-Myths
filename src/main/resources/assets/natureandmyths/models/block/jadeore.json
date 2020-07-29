@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "natureandmyths:blocks/jade_ore",
-    "particle": "natureandmyths:blocks/jade_ore"
+    "all": "natureandmyths:blocks/jadeore",
+    "particle": "natureandmyths:blocks/jadeore"
   }
 }

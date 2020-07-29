@@ -1,29 +1,26 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:orangetreelog"
-    },
     "facing=south": {
-      "model": "natureandmyths:orangetreelog"
+      "model": "natureandmyths:block/orangetreelog"
     },
     "facing=north": {
-      "model": "natureandmyths:orangetreelog"
+      "model": "natureandmyths:block/orangetreelog"
     },
     "facing=east": {
-      "model": "natureandmyths:orangetreelog",
+      "model": "natureandmyths:block/orangetreelog",
       "x": 90
     },
     "facing=west": {
-      "model": "natureandmyths:orangetreelog",
+      "model": "natureandmyths:block/orangetreelog",
       "x": 90
     },
     "facing=up": {
-      "model": "natureandmyths:orangetreelog",
+      "model": "natureandmyths:block/orangetreelog",
       "x": 90,
       "y": 90
     },
     "facing=down": {
-      "model": "natureandmyths:orangetreelog",
+      "model": "natureandmyths:block/orangetreelog",
       "x": 90,
       "y": 90
     }

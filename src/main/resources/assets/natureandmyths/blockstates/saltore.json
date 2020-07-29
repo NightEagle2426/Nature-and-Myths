@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:saltore"
+    "": {
+      "model": "natureandmyths:block/saltore"
     }
   }
 }

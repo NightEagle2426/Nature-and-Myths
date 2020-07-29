@@ -1,11 +1,12 @@
 {
-  "_fv": 6,
+  "_fv": 8,
   "_type": "tool",
   "definition": {
     "renderType": 0,
     "texture": "cobaltos_shovel",
     "customModelName": "Normal",
     "name": "Cobaltos Shovel",
+    "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },

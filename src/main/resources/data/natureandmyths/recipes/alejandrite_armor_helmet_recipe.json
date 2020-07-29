@@ -1,0 +1,29 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "natureandmyths:alejandrite_gem"
+    },
+    "1": {
+      "item": "natureandmyths:alejandrite_gem"
+    },
+    "2": {
+      "item": "natureandmyths:alejandrite_gem"
+    },
+    "3": {
+      "item": "natureandmyths:alejandrite_gem"
+    },
+    "5": {
+      "item": "natureandmyths:alejandrite_gem"
+    }
+  },
+  "result": {
+    "item": "natureandmyths:alejandrite_armorhelmet",
+    "count": 1
+  }
+}

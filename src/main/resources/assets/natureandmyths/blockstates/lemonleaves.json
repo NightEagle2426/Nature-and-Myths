@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:lemonleaves"
+    "": {
+      "model": "natureandmyths:block/lemonleaves"
     }
   }
 }

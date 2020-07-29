@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "natureandmyths:blocks/marmol1",
-    "up": "natureandmyths:blocks/marmol1",
-    "north": "natureandmyths:blocks/marmol1",
-    "east": "natureandmyths:blocks/marmol1",
-    "south": "natureandmyths:blocks/marmol1",
-    "west": "natureandmyths:blocks/marmol1",
+    "all": "natureandmyths:blocks/marmol1",
     "particle": "natureandmyths:blocks/marmol1"
   }
 }

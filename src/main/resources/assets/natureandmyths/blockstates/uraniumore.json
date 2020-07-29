@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:uraniumore"
+    "": {
+      "model": "natureandmyths:block/uraniumore"
     }
   }
 }

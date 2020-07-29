@@ -1,11 +1,12 @@
 {
-  "_fv": 6,
+  "_fv": 8,
   "_type": "tool",
   "definition": {
     "renderType": 0,
     "texture": "spinelaxe",
     "customModelName": "Normal",
     "name": "Spinels Axe",
+    "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },

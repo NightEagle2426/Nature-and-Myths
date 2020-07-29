@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:platinumore"
+    "": {
+      "model": "natureandmyths:block/platinumore"
     }
   }
 }

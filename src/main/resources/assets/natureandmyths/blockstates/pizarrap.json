@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:pizarrap"
+    "": {
+      "model": "natureandmyths:block/pizarrap"
     }
   }
 }

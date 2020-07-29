@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:casariteore"
+    "": {
+      "model": "natureandmyths:block/casariteore"
     }
   }
 }

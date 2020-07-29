@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:actiniumore"
+    "": {
+      "model": "natureandmyths:block/actiniumore"
     }
   }
 }

@@ -2,6 +2,7 @@
   "group": "natureandmyths",
   "type": "minecraft:smelting",
   "experience": 0.7,
+  "cookingtime": 200,
   "ingredient": {
     "item": "natureandmyths:nikel1ore"
   },

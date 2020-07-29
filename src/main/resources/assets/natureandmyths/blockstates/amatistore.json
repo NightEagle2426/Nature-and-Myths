@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:amatistore"
+    "": {
+      "model": "natureandmyths:block/amatistore"
     }
   }
 }

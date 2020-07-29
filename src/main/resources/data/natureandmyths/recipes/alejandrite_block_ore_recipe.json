@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:alejandrite_ore_block"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:alejandrite_gem",
+    "count": 9
+  }
+}

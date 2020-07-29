@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "natureandmyths:blocks/hafnium_ore_block",
+    "particle": "natureandmyths:blocks/hafnium_ore_block"
+  }
+}

@@ -1,21 +1,18 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:funditionfurnace"
-    },
     "facing=north": {
-      "model": "natureandmyths:funditionfurnace"
+      "model": "natureandmyths:block/funditionfurnace"
     },
     "facing=east": {
-      "model": "natureandmyths:funditionfurnace",
+      "model": "natureandmyths:block/funditionfurnace",
       "y": 90
     },
     "facing=south": {
-      "model": "natureandmyths:funditionfurnace",
+      "model": "natureandmyths:block/funditionfurnace",
       "y": 180
     },
     "facing=west": {
-      "model": "natureandmyths:funditionfurnace",
+      "model": "natureandmyths:block/funditionfurnace",
       "y": 270
     }
   }

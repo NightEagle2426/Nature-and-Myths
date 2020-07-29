@@ -2,8 +2,9 @@
   "group": "natureandmyths",
   "type": "minecraft:smelting",
   "experience": 0,
+  "cookingtime": 200,
   "ingredient": {
-    "item": "natureandmyths:hades"
+    "item": "natureandmyths:plutonium_ore"
   },
   "result": {
     "item": "natureandmyths:plutonium"

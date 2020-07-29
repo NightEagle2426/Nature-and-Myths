@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:taafeite_ore_block"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:taafeite_gem",
+    "count": 9
+  }
+}

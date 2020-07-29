@@ -1,5 +1,5 @@
 {
-  "_fv": 6,
+  "_fv": 8,
   "_type": "block",
   "definition": {
     "texture": "marmol2",
@@ -12,6 +12,7 @@
     "customModelName": "Normal",
     "rotationMode": 0,
     "hasTransparency": false,
+    "connectedSides": false,
     "transparencyType": "SOLID",
     "mx": 0.0,
     "my": 0.0,
@@ -19,7 +20,6 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "faceShape": "SOLID",
     "name": "Marmol",
     "specialInfo": [],
     "hardness": 10.0,
@@ -29,7 +29,6 @@
       "value": "BUILDING_BLOCKS"
     },
     "destroyTool": "pickaxe",
-    "affectedBySilkTouch": true,
     "customDrop": {
       "value": ""
     },
@@ -49,6 +48,8 @@
     "creativePickItem": {
       "value": ""
     },
+    "offsetType": "NONE",
+    "aiPathNodeType": "DEFAULT",
     "flammability": 0,
     "fireSpreadSpeed": 0,
     "isLadder": false,
@@ -70,18 +71,20 @@
     "particleAmount": 4,
     "particleSpawningCondition": "ALWAYS",
     "hasInventory": false,
+    "guiBoundTo": "<NONE>",
     "openGUIOnRightClick": false,
     "inventorySize": 9,
     "inventoryStackSize": 64,
     "inventoryDropWhenDestroyed": true,
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
+    "inventoryInSlotIDs": [],
     "spawnWorldTypes": [
       "Surface"
     ],
     "restrictionBiomes": [
       {
-        "value": "desert"
+        "value": "plains"
       },
       {
         "value": "mountains"
@@ -90,16 +93,7 @@
         "value": "forest"
       },
       {
-        "value": "river"
-      },
-      {
-        "value": "desert_hills"
-      },
-      {
-        "value": "savanna"
-      },
-      {
-        "value": "badlands"
+        "value": "frozen_ocean"
       }
     ],
     "blocksToReplace": [
@@ -107,9 +101,9 @@
         "value": "Blocks.STONE"
       }
     ],
-    "frequencyPerChunks": 7,
-    "frequencyOnChunk": 10,
-    "minGenerateHeight": 0,
+    "frequencyPerChunks": 20,
+    "frequencyOnChunk": 1,
+    "minGenerateHeight": 40,
     "maxGenerateHeight": 64
   }
 }

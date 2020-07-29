@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:plomosore"
+    "": {
+      "model": "natureandmyths:block/plomosore"
     }
   }
 }

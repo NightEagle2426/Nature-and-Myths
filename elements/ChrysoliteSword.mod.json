@@ -1,11 +1,12 @@
 {
-  "_fv": 6,
+  "_fv": 8,
   "_type": "tool",
   "definition": {
     "renderType": 0,
     "texture": "chrysolite_sword",
     "customModelName": "Normal",
     "name": "Chrysolite Sword",
+    "specialInfo": [],
     "creativeTab": {
       "value": "COMBAT"
     },

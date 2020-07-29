@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "Spawn Eggs",
+    "icon": {
+      "value": "Items.TROPICAL_FISH_SPAWN_EGG"
+    },
+    "showSearch": true
+  }
+}

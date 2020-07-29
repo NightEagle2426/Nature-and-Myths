@@ -1,11 +1,12 @@
 {
-  "_fv": 6,
+  "_fv": 8,
   "_type": "tool",
   "definition": {
     "renderType": 0,
     "texture": "rubys_hoe",
     "customModelName": "Normal",
     "name": "Rubys Hoe",
+    "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },

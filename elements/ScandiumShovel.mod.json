@@ -1,11 +1,12 @@
 {
-  "_fv": 6,
+  "_fv": 8,
   "_type": "tool",
   "definition": {
     "renderType": 0,
     "texture": "scandium_shovel",
     "customModelName": "Normal",
     "name": "Scandium Shovel",
+    "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },

@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:rodiumoreblock"
+    "": {
+      "model": "natureandmyths:block/rodiumoreblock"
     }
   }
 }

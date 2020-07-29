@@ -1,0 +1,16 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_dye"
+    },
+    {
+      "item": "natureandmyths:macuahuitl"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:pink_macuahuitl",
+    "count": 1
+  }
+}

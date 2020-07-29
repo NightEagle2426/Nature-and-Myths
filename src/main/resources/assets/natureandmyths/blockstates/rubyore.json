@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:rubyore"
+    "": {
+      "model": "natureandmyths:block/rubyore"
     }
   }
 }

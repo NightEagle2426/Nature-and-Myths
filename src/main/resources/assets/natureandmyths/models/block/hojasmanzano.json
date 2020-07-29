@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "natureandmyths:blocks/hojasmanzano",
-    "up": "natureandmyths:blocks/hojasmanzano",
-    "north": "natureandmyths:blocks/hojasmanzano",
-    "east": "natureandmyths:blocks/hojasmanzano",
-    "south": "natureandmyths:blocks/hojasmanzano",
-    "west": "natureandmyths:blocks/hojasmanzano",
+    "all": "natureandmyths:blocks/hojasmanzano",
     "particle": "natureandmyths:blocks/hojasmanzano"
   }
 }

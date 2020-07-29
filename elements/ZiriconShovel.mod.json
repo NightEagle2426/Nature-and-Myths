@@ -1,11 +1,12 @@
 {
-  "_fv": 6,
+  "_fv": 8,
   "_type": "tool",
   "definition": {
     "renderType": 0,
     "texture": "ziricon_shovel",
     "customModelName": "Normal",
     "name": "Ziricon Shovel",
+    "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },

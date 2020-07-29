@@ -1,0 +1,13 @@
+{
+  "group": "natureandmyths",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureandmyths:granate_ore_block"
+    }
+  ],
+  "result": {
+    "item": "natureandmyths:granate_gem",
+    "count": 9
+  }
+}

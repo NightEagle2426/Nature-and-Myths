@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:manganesiumoreblock"
+    "": {
+      "model": "natureandmyths:block/manganesiumoreblock"
     }
   }
 }

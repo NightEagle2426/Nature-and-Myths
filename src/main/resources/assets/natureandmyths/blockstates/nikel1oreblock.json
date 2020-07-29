@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:nikel1oreblock"
+    "": {
+      "model": "natureandmyths:block/nikel1oreblock"
     }
   }
 }

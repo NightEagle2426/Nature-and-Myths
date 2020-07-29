@@ -1,29 +1,26 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:troncomanzano"
-    },
     "facing=south": {
-      "model": "natureandmyths:troncomanzano"
+      "model": "natureandmyths:block/troncomanzano"
     },
     "facing=north": {
-      "model": "natureandmyths:troncomanzano"
+      "model": "natureandmyths:block/troncomanzano"
     },
     "facing=east": {
-      "model": "natureandmyths:troncomanzano",
+      "model": "natureandmyths:block/troncomanzano",
       "x": 90
     },
     "facing=west": {
-      "model": "natureandmyths:troncomanzano",
+      "model": "natureandmyths:block/troncomanzano",
       "x": 90
     },
     "facing=up": {
-      "model": "natureandmyths:troncomanzano",
+      "model": "natureandmyths:block/troncomanzano",
       "x": 90,
       "y": 90
     },
     "facing=down": {
-      "model": "natureandmyths:troncomanzano",
+      "model": "natureandmyths:block/troncomanzano",
       "x": 90,
       "y": 90
     }

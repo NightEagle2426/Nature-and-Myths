@@ -1,5 +1,5 @@
 {
-  "_fv": 6,
+  "_fv": 8,
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
@@ -7,7 +7,7 @@
     "enableBody": true,
     "textureBody": "zaphyrearmorchess",
     "enableLeggings": true,
-    "textureLeggings": "zaph_leggings",
+    "textureLeggings": "zaphyreleggs",
     "enableBoots": true,
     "textureBoots": "zaph_boots",
     "creativeTab": {

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "natureandmyths:blocks/musgravite_ore",
+    "particle": "natureandmyths:blocks/musgravite_ore"
+  }
+}

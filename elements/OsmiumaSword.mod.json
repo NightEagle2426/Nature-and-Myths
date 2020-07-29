@@ -1,11 +1,12 @@
 {
-  "_fv": 6,
+  "_fv": 8,
   "_type": "tool",
   "definition": {
     "renderType": 0,
     "texture": "osmiumsword",
     "customModelName": "Normal",
     "name": "Osmiuma Sword",
+    "specialInfo": [],
     "creativeTab": {
       "value": "COMBAT"
     },

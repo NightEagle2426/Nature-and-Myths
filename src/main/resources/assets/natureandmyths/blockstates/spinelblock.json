@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:spinelblock"
+    "": {
+      "model": "natureandmyths:block/spinelblock"
     }
   }
 }

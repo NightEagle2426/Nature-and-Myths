@@ -1,11 +1,12 @@
 {
-  "_fv": 6,
+  "_fv": 8,
   "_type": "tool",
   "definition": {
     "renderType": 0,
     "texture": "manganesium_hoe",
     "customModelName": "Normal",
     "name": "Manganesium Hoe",
+    "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },

@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:rubyb"
+    "": {
+      "model": "natureandmyths:block/rubyb"
     }
   }
 }

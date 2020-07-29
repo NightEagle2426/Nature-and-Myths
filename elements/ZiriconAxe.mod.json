@@ -1,11 +1,12 @@
 {
-  "_fv": 6,
+  "_fv": 8,
   "_type": "tool",
   "definition": {
     "renderType": 0,
     "texture": "ziricon_axe",
     "customModelName": "Normal",
     "name": "Ziricon Axe",
+    "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },

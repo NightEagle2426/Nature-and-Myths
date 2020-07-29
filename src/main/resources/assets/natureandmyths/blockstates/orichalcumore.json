@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:orichalcumore"
+    "": {
+      "model": "natureandmyths:block/orichalcumore"
     }
   }
 }

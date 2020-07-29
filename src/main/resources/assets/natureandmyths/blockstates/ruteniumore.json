@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:ruteniumore"
+    "": {
+      "model": "natureandmyths:block/ruteniumore"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:plutoniumblock"
+    "": {
+      "model": "natureandmyths:block/plutoniumblock"
     }
   }
 }

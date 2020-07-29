@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "natureandmyths:blockofpirite"
+    "": {
+      "model": "natureandmyths:block/blockofpirite"
     }
   }
 }
